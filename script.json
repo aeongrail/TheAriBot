@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the bot of Ari, a student studying at The University of Auckland.
-	"PHOTO": [ari](https://raw.githubusercontent.com/aeongrail/TheAriBot/master/img/me.jpg) 
-	"FACT": %[Learn about Ari](postback:learn_about_ari) %[Give me a fact about this fine gentleman](postback:random_fact)",
+    "PHOTO": [ari](https://raw.githubusercontent.com/aeongrail/TheAriBot/master/img/me.jpg) 
+    "FACT": %[Learn about Ari](postback:learn_about_ari) %[Give me a fact about this fine gentleman](postback:random_fact)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "You're cute. But I think we should just be friends, I'm a robot after all!",
     "CONNECT ME": "",
