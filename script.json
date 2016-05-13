@@ -1,10 +1,13 @@
 {
-    "BOT": "Hi there! I’m the personal bot of Ari, a student studying Engineering Science at The Univsersity of Auckland. %[Find out about Engineering Science](http://www.des.auckland.ac.nz/en.html)",
-    "PICTURE": "![ari](https://github.com/aeongrail/TheAriBot/raw/master/img/me.jpg)",
-    "MOAR": "Want to know more about bots or learn about Ari? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Ari](postback:learn_about_Ari) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set AriBot up! Do you want to tell Ari that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Ari so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Ari](http://bit.ly/Aribot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "BOT": "Hi there! I’m the personal bot of Ari, a student studying Engineering Science at The Univsersity of Auckland. %[What is Engsci?](http://www.des.auckland.ac.nz/en.html)\nFor some commands to get you started, type HELP %[Command List](postback:help)",
+    "PICTURE": "![https://www.youtube.com/watch?v=dQw4w9WgXcQ]",
+	"PICTUREOFARI": "![ari](https://github.com/aeongrail/TheAriBot/raw/master/img/me.jpg)",
+	"HELP": "PICTURE\nEDUCATION\nWORK\nSPORTS\nHOBBIES\nI LOVE YOU ARIBOT",
+	"EDUCATION": "Ari learnt some stuff at some places",
+	"WORK": "Ari worked in some companies",
+	"SPORTS": "Ari enjoys extreme ironing and chess boxing",
+	"HOBBIES": "Ari likes to break into airplane hangars and replace the ads on their giant banners with cool facts. %[inspiration](https://xkcd.com/1355/)",
+	"I LOVE YOU ARIBOT": "Awks, I think you are cute and all, but I think we should just be friends",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, AriBot is back."
+    "DISCONNECT": "AriBot is back online."
 }
