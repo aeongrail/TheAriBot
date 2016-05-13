@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Ari, a student studying ![Engineering Science](http://www.des.auckland.ac.nz/en.html) at The Univsersity of Auckland.",
+    "BOT": "Hi there! I’m the personal bot of Ari, a student studying ![Engineering Science](http://www.des.auckland.ac.nz/en.html) at The Univsersity of Auckland.",
     "PICTURE": "![ari](https://github.com/aeongrail/TheAriBot/raw/master/img/me.jpg)",
     "MOAR": "Want to know more about bots or learn about Ari? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Ari](postback:learn_about_Ari) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set AriBot up! Do you want to tell Ari that you're talking to her bot? %[Tell her](postback:twitter)",
