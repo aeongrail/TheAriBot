@@ -5,7 +5,7 @@
     "PICTURE": "Haha NOPE! But maybe if you click here...%[The real picture](postback:the_real_picture)",
     "THE REAL PICTURE":"Do you see me? ![cat](https://github.com/aeongrail/TheAriBot/raw/master/img/cat.jpg)\n Did I get ya???? Haha! Heres the actualy one: %[The actual picture](postback:the_actual_picture)",
     "THE ACTUAL PICTURE":"Heres AriBot ![aribot](https://github.com/aeongrail/TheAriBot/raw/master/img/c3po.jpg)\n Haha, jk thats actually me, heres the real real one for realzies %[For realzies this time](postback:FOR_REALZIES_THIS_TIME)\n",
-    "FOR REALZIES THIS TIME":"![rick](https://github.com/aeongrail/TheAriBot/raw/master/img/rick.gif)",
+    "FOR REALZIES OI":"![rick](https://github.com/aeongrail/TheAriBot/raw/master/img/rick.gif)",
     "PICTUREOFARI": "![ari](https://github.com/aeongrail/TheAriBot/raw/master/img/me.jpg)",	
     "EDUCATION": "Ari learnt some stuff at some places like the University of Auckland.",	
     "WORK": "Ari worked in some companies, like Kathmandu - where he lived the dream",	
