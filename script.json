@@ -18,7 +18,6 @@
     "HEY ARIBOT!": "Hi",
     "HI ARIBOT": "Hi",
     "HI ARIBOT!": "Hi",
-    "HI": "Hi",
     "HI!": "Hi",
     "HEY": "Hi",
     "HEY!": "Hi",
@@ -62,7 +61,7 @@
     "WHO IS ARIBOT?": "I'm a bot.",
     "WHO IS AriBOT": "I'm a bot.",
     "WHAT IS AriBOT?": "I'm a bot.",
-    
+    "💩": "What smells!?",
     "CONNECT ME": "",
     "DISCONNECT": "AriBot is back online."
 }
