@@ -1,7 +1,7 @@
 {
-    "HELP": "PICTURE\nEDUCATION\nWORK\nSPORTS\nHOBBIES\nI LOVE YOU ARIBOT",
     "HI": "Hi there! I’m the personal bot of Ari, a student studying Engineering Science at The Univsersity of Auckland. %[What is Engsci?](http://www.des.auckland.ac.nz/en.html)\nFor some commands to get you started, type HELP %[Command List](postback:help)",
     "BOT": "Hi there! I’m the personal bot of Ari, a student studying Engineering Science at The Univsersity of Auckland. %[What is Engsci?](http://www.des.auckland.ac.nz/en.html)\nFor some commands to get you started, type HELP %[Command List](postback:help)",
+    "HELP": "PICTURE\nEDUCATION\nWORK\nSPORTS\nHOBBIES\nI LOVE YOU ARIBOT",
     "PICTURE": "Haha NOPE!",
     "PICTUREOFARI": "![ari](https://github.com/aeongrail/TheAriBot/raw/master/img/me.jpg)",	
     "EDUCATION": "Ari learnt some stuff at some places",	
