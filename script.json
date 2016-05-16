@@ -2,7 +2,7 @@
     "HI": "Hi there! I’m the personal bot of Ari, a student studying Engineering Science at The Univsersity of Auckland. %[What is Engsci?](http://www.des.auckland.ac.nz/en.html)\nFor some commands to get you started, type HELP %[Help](postback:help)",
     "BOT": "Hi there! I’m the personal bot of Ari, a student studying Engineering Science at The Univsersity of Auckland. %[What is Engsci?](http://www.des.auckland.ac.nz/en.html)\nFor some commands to get you started, type HELP %[Help](postback:help)",
     "HELP": "PICTURE\nEDUCATION\nWORK\nSPORTS\nHOBBIES\nI LOVE YOU ARIBOT\nThere are more than this, you just need to find them",
-    "PICTURE": "Haha NOPE!\n\n\nBut maybe if you click here...%[The real picture](postback:the real picture)",
+    "PICTURE": "Haha NOPE! But maybe if you click here...%[The real picture](postback:the real picture)",
     "THE REAL PICTURE":"![cat](https://github.com/aeongrail/TheAriBot/raw/master/img/cat.jpg)%[The actual picture](postback:the actual picture)",
     "THE ACTUAL PICTURE":"![aribot](https://github.com/aeongrail/TheAriBot/raw/master/img/swemoji001-410x410.gif.jpg.jpg)%[For realzies this time](postback:FOR REALZIES THIS TIME)",
     "FOR REALZIES THIS TIME":"![aribot](https://github.com/aeongrail/TheAriBot/raw/master/img/rick.gif)",
